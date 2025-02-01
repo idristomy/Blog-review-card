@@ -29,7 +29,7 @@ body {
     padding: 25px;
     border-radius: 20px;
     box-shadow: 10px 10px 0px;
-
+    border: 1px solid;
 }
 
 img {
